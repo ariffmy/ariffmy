@@ -129,8 +129,6 @@ Personal portfolio and project showcase for web systems, plugins and digital wor
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
 ---
 
 ## 🎯 2026 Focus
