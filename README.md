@@ -1,126 +1,200 @@
-# Hi there 👋 I'm Ariff
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=ariff.my&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=ffffff&desc=ICT%20Officer%20%7C%20Web%20Systems%20Developer%20%7C%20WordPress%20Plugin%20Builder&descAlign=50&descAlignY=58&animation=fadeIn" />
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Web+Systems+Developer;WordPress+Plugin+Developer;Government+ICT+Officer;PHP+%7C+MySQL+%7C+Bootstrap;Always+Building+Something+Useful" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hello%2C+Nama+Saya+Ariff;Building+Modern+Digital+Workflow+Systems;PHP+%7C+MySQL+%7C+Bootstrap+%7C+WordPress;Government+ICT+%2B+Practical+Web+Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ariffmy">
-    <img src="https://img.shields.io/github/followers/ariffmy?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Made%20in-Malaysia-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=ariffmy&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ariffmy?label=Followers&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Made%20in-Malaysia-ef4444?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm an ICT Officer and full-stack developer passionate about building systems that improve digital workflows.
+<table>
+<tr>
+<td>
 
-I enjoy creating practical solutions using PHP, MySQL, Bootstrap and WordPress, focusing on clean UI, good UX and maintainable code.
+```php
+<?php
 
-Currently working on:
+$profile = [
+    "name" => "Ariff",
+    "brand" => "ariff.my",
+    "role" => "ICT Officer & Web Systems Developer",
+    "focus" => [
+        "WordPress Plugin Development",
+        "Government Digital Workflow",
+        "PHP & MySQL Systems",
+        "UI/UX Improvement",
+        "Automation & Internal Tools"
+    ],
+    "principle" => "Build useful software. Keep it simple."
+];
 
+?>
+```
+
+</td>
+<td>
+
+### What I Build
+
+* 🕌 Johor Prayer Time WordPress Plugin
 * 📅 Meeting Room Booking System
 * 🎫 ICT Helpdesk System
-* 🕌 Johor Prayer Time WordPress Plugin
-* 🌐 Personal Portfolio (ariff.my)
+* 🧾 Audit Trail & Admin Workflow
+* 🌐 Personal Portfolio for `ariff.my`
+* ⚙️ Practical tools for daily ICT operations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap)
-
-### CMS
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,wordpress,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ariffmy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🕌 Johor Prayer Time Plugin
 
-WordPress plugin displaying official Johor prayer times with modern widgets.
+Modern WordPress plugin for displaying Johor prayer times using official XML data.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=johor-waktu-solat&theme=tokyonight&hide_border=true" />
+
+</td>
+<td width="50%">
 
 ### 📅 Meeting Room Booking
 
-A complete meeting room booking system with approval workflow, calendar view and audit trail.
+Room booking system with approval flow, calendar view, admin control and audit trail.
 
-### 🎫 ICT Helpdesk
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=Tempahan-Bilik-Mesyuarat&theme=tokyonight&hide_border=true" />
 
-Helpdesk system built using PHP, Bootstrap and MySQL featuring ticket assignment and reporting.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎫 ICT Helpdesk System
+
+PHP, MySQL and Bootstrap-based helpdesk system for ICT complaint management.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=Sistem-Helpdesk-ICT-JAINJ&theme=tokyonight&hide_border=true" />
+
+</td>
+<td width="50%">
 
 ### 🌐 ariff.my
 
-Personal portfolio showcasing projects, plugins and development work.
+Personal portfolio and project showcase for web systems, plugins and digital workflow.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=ariff.my&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ariffmy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariffmy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ariffmy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariffmy&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ariffmy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ariffmy&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariffmy&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ariffmy&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/ariffmy/ariffmy/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🎯 Goals
-
-* Build useful open-source WordPress plugins
-* Create modern government digital solutions
-* Improve UI/UX for public sector applications
-* Share practical development knowledge
-
----
-
-## 🤝 Connect
-
-* GitHub: https://github.com/ariffmy
-
----
+## 🎧 Now Playing on Spotify
 
 <p align="center">
-
-**"Build useful software. Keep it simple."**
-
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+```txt
+01. Build practical WordPress plugins
+02. Improve government digital workflows
+03. Design cleaner admin dashboards
+04. Write maintainable PHP & MySQL systems
+05. Share useful open-source projects
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ariffmy">
+    <img src="https://img.shields.io/badge/GitHub-ariffmy-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://ariff.my">
+    <img src="https://img.shields.io/badge/Website-ariff.my-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7c3aed,50:2563eb,100:0f172a" />
+
+</div>
