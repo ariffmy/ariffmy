@@ -115,31 +115,10 @@ Personal portfolio and project showcase for web systems, plugins and digital wor
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ariffmy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariffmy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ariffmy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariffmy&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ariffmy/ariffmy/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -149,6 +128,8 @@ Personal portfolio and project showcase for web systems, plugins and digital wor
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
