@@ -68,14 +68,6 @@ $profile = [
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariffmy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 <table>
@@ -155,15 +147,7 @@ Personal portfolio and project showcase for web systems, plugins and digital wor
 ## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
-</p>
-
----
-
-## ⏱️ WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
 
 ---
