@@ -68,53 +68,6 @@ $profile = [
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🕌 Johor Prayer Time Plugin
-
-Modern WordPress plugin for displaying Johor prayer times using official XML data.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=johor-waktu-solat&theme=tokyonight&hide_border=true" />
-
-</td>
-<td width="50%">
-
-### 📅 Meeting Room Booking
-
-Room booking system with approval flow, calendar view, admin control and audit trail.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=Tempahan-Bilik-Mesyuarat&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎫 ICT Helpdesk System
-
-PHP, MySQL and Bootstrap-based helpdesk system for ICT complaint management.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=Sistem-Helpdesk-ICT-JAINJ&theme=tokyonight&hide_border=true" />
-
-</td>
-<td width="50%">
-
-### 🌐 ariff.my
-
-Personal portfolio and project showcase for web systems, plugins and digital workflow.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ariffmy&repo=ariff.my&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -128,18 +81,6 @@ Personal portfolio and project showcase for web systems, plugins and digital wor
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
-
----
-
-## 🎯 2026 Focus
-
-```txt
-01. Build practical WordPress plugins
-02. Improve government digital workflows
-03. Design cleaner admin dashboards
-04. Write maintainable PHP & MySQL systems
-05. Share useful open-source projects
-```
 
 ---
 
