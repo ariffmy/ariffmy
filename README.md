@@ -16,70 +16,10 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td>
-
-```php
-<?php
-
-$profile = [
-    "name" => "Ariff",
-    "brand" => "ariff.my",
-    "role" => "ICT Officer & Web Systems Developer",
-    "focus" => [
-        "WordPress Plugin Development",
-        "Government Digital Workflow",
-        "PHP & MySQL Systems",
-        "UI/UX Improvement",
-        "Automation & Internal Tools"
-    ],
-    "principle" => "Build useful software. Keep it simple."
-];
-
-?>
-```
-
-</td>
-<td>
-
-### What I Build
-
-* 🕌 Johor Prayer Time WordPress Plugin
-* 📅 Meeting Room Booking System
-* 🎫 ICT Helpdesk System
-* 🧾 Audit Trail & Admin Workflow
-* 🌐 Personal Portfolio for `ariff.my`
-* ⚙️ Practical tools for daily ICT operations
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,wordpress,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariffmy&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1295409640&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false" />
 </p>
 
 ---
