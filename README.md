@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ariff Samani
+# 👋 Hi, I'm ariff.my
 
 ### IT Professional • Web Developer • System Builder
 
@@ -22,7 +22,7 @@
 <?php
 
 $developer = [
-    'name'      => 'Ariff Samani',
+    'name'      => 'ariff.my',
     'location'  => 'Johor, Malaysia 🇲🇾',
     'role'      => 'IT Professional',
     'interests' => [
