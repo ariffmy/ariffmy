@@ -185,38 +185,6 @@ Team involvement in supporting the implementation and operation of the platform.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ariffmy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariffmy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ariffmy&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ariffmy/ariffmy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🧭 What I'm Exploring
 
 ```text
@@ -228,14 +196,6 @@ Team involvement in supporting the implementation and operation of the platform.
 🎨  UI / UX Improvement
 🤖  AI-assisted Development
 ```
-
----
-
-## 💡 Development Philosophy
-
-> **Build solutions that are simple, practical and useful.**
-
-I believe technology should solve real problems — not create unnecessary complexity.
 
 ---
 
