@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">ariff.my — IT Professional, Web Developer, System Builder</title>
+<desc id="desc">Minimal navy profile banner with blue accent and abstract code illustration.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#172c4b"/></linearGradient><linearGradient id="wave" x2="0" y2="1"><stop stop-color="#1b4f92" stop-opacity=".65"/><stop offset="1" stop-color="#1b4f92" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+<path d="M570 310C730 140 820 290 940 140S1110 110 1200 42V310Z" fill="url(#wave)"/>
+<path d="M740 310C900 180 1010 290 1200 150V310Z" fill="#0e203b" opacity=".75"/>
+<path d="M67 54h10l-30 91H37z" fill="#2f81f7"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#f7faff"><text x="100" y="101" font-size="62" font-weight="700" letter-spacing="-2">ariff.my</text><text x="101" y="144" font-size="21" font-weight="600">IT Professional  ·  Web Developer  ·  System Builder</text><text x="101" y="193" font-size="19" fill="#c8d6eb">Building practical digital solutions through clean development,</text><text x="101" y="221" font-size="19" fill="#c8d6eb">reliable systems, and thoughtful design.</text><text x="101" y="267" font-size="17" fill="#a7c5ec">Johor, Malaysia  ·  ariff.my</text></g>
+<g transform="translate(887 60)" stroke="#5c9ee9" fill="none" stroke-linejoin="round" stroke-linecap="round"><rect x="0" y="0" width="210" height="147" rx="13" stroke-width="6" transform="skewX(-8)"/><path d="m65 49-26 24 26 24m80-48 26 24-26 24m-37-60-16 72" stroke-width="7"/><path d="M-25 162h245" stroke-width="9"/></g>
+</svg>
