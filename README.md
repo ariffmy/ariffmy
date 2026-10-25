@@ -53,5 +53,5 @@ Modern web development · Workflow automation · Web and server security · Linu
 ---
 
 <div align="center">
-<sub>Design with purpose. Build with simplicity. Improve continuously.</sub>
+  <sub>Design with purpose. Build with simplicity. Improve continuously.</sub>
 </div>
