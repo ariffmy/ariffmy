@@ -1,226 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I'm ariff.my
+# ariff.my
 
-### IT Professional • Web Developer • System Builder
+**IT Professional · Web Developer · System Builder**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=700\&lines=Building+Practical+Digital+Solutions;Web+%26+System+Development;WordPress+%7C+PHP+%7C+MySQL;Linux+%7C+Server+Administration;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+Building practical digital solutions through clean development, reliable systems, and thoughtful design.
+
+Johor, Malaysia
+
+[Website](https://ariff.my) · [GitHub](https://github.com/ariffmy)
+
+</div>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ariff.my-2F81F7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://ariff.my/)
-[![GitHub](https://img.shields.io/badge/GitHub-ariffmy-181717?style=for-the-badge\&logo=github)](https://github.com/ariffmy)
-![Profile Views](https://komarev.com/ghpvc/?username=ariffmy\&style=for-the-badge\&color=2F81F7)
+## About
 
-</div>
+I'm an IT professional based in Johor, Malaysia, with a focus on web development, system development, and IT infrastructure.
 
----
+I build and maintain practical digital solutions that improve workflows, simplify operations, and support organizational needs.
 
-## 👨‍💻 About Me
+My experience covers custom PHP applications, WordPress development, database management, Linux server administration, and web security.
 
-```php
-<?php
+I value simplicity, maintainability, performance, and continuous improvement.
 
-$developer = [
-    'name'      => 'ariff.my',
-    'location'  => 'Johor, Malaysia 🇲🇾',
-    'role'      => 'IT Professional',
-    'interests' => [
-        'Web Development',
-        'System Development',
-        'WordPress',
-        'Server Administration',
-        'Web Security',
-        'UI/UX'
-    ],
-    'currently' => 'Building useful digital solutions'
-];
-```
+<br>
 
-I enjoy turning ideas and operational requirements into **practical digital solutions**.
+## Technical Expertise
 
-My work and personal projects cover web development, internal systems, WordPress customization, databases, Linux server administration and web infrastructure.
+| Area | Technologies & Tools |
+|:--|:--|
+| **Web Development** | PHP, JavaScript, HTML, CSS, Bootstrap |
+| **CMS Development** | WordPress, Advanced Custom Fields |
+| **Databases** | MySQL, MariaDB |
+| **Server & Infrastructure** | Linux, Apache, cPanel |
+| **Development Tools** | Git, GitHub, VS Code, PowerShell |
+| **Core Focus** | System Development, Web Security, UI/UX |
 
----
+<br>
 
-## ⚡ Tech Stack
+## Selected Work
 
-<div align="center">
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap&theme=dark" />
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,linux,apache&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell&theme=dark" />
-
-<br><br>
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square\&logo=cpanel\&logoColor=white)
-![ACF](https://img.shields.io/badge/Advanced_Custom_Fields-00E4BC?style=flat-square\&logo=wordpress\&logoColor=white)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Web Portal Development
-
-Development and enhancement of organizational web portals using WordPress and custom web technologies.
-
-**Key Areas**
-
-* WordPress customization
-* Advanced Custom Fields
-* Custom PHP development
-* Staff directory
-* Content management
-* Responsive UI
-* Server migration
-* Security hardening
+### Web Portal Development
+Development, customization, and maintenance of organizational web portals.
 
 `WordPress` `PHP` `ACF` `MariaDB`
 
-</td>
+- Custom WordPress functionality and content management
+- Staff directories and structured data management
+- Responsive interfaces and usability improvements
+- Server migration, maintenance, and security hardening
 
-<td width="50%" valign="top">
-
-### 🛠 ICT Helpdesk System
-
-Web-based system for managing and tracking ICT support requests.
-
-**Features**
-
-* Ticket management
-* Request tracking
-* User management
-* Support workflow
-* Reporting
+### ICT Helpdesk System
+A web-based application designed to streamline ICT support operations.
 
 `PHP` `MySQL` `Bootstrap`
 
-</td>
-</tr>
+- Support ticket management and request tracking
+- User administration and workflow management
+- Operational reporting
 
-<tr>
-<td width="50%" valign="top">
-
-### 📅 Meeting Room Booking
-
-System for managing meeting room reservations and scheduling.
-
-**Features**
-
-* Room reservation
-* Schedule management
-* Booking records
-* Availability management
+### Meeting Room Booking System
+A centralized solution for managing meeting room reservations.
 
 `PHP` `MySQL` `Bootstrap`
 
-</td>
+- Room availability and reservation management
+- Scheduling and booking records
+- Administrative management
 
-<td width="50%" valign="top">
-
-### 🔍 WordPress Audit Trail
-
-Custom WordPress functionality for monitoring administrative activities.
-
-**Focus**
-
-* Activity logging
-* Administrator monitoring
-* Accountability
-* Security auditing
+### WordPress Audit Trail
+Custom functionality for tracking administrative activities within WordPress.
 
 `WordPress` `PHP` `Security`
 
-</td>
-</tr>
+- Administrative activity logging
+- User action monitoring
+- Security auditing and accountability
 
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Loan Calculator
-
-Simple and responsive web-based loan calculation application.
-
-**Focus**
-
-* Loan calculation
-* Responsive interface
-* Lightweight implementation
+### Loan Calculator
+A lightweight, responsive web application for loan calculations.
 
 `JavaScript` `HTML` `CSS`
 
-</td>
+- Interactive loan calculations
+- Responsive and accessible interface
+- Simple, maintainable implementation
 
-<td width="50%" valign="top">
+### JohorPay
+Contributed as a team member to the JohorPay digital payment platform initiative.
 
-### 💳 JohorPay
+`Digital Payments` `Team Collaboration`
 
-Contributed as part of the team involved in the JohorPay digital payment platform initiative.
-
-**Contribution**
-
-Team involvement in supporting the implementation and operation of the platform.
-
-`Digital Payment` `Team Project`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 What I'm Exploring
-
-```text
-🌐  Modern Web Development
-⚙️  Workflow Automation
-🔐  Web & Server Security
-🐧  Linux Server Administration
-🧩  WordPress Custom Development
-🎨  UI / UX Improvement
-🤖  AI-assisted Development
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Portfolio-ariff.my-2F81F7?style=for-the-badge)](https://ariff.my/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ariffmy-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ariffmy)
-
-</div>
-
----
-
-<div align="center">
-
-### `Code • Build • Improve • Repeat`
+- Supported platform implementation and operations
+- Participated in collaborative project activities
 
 <br>
 
-![Made in Malaysia](https://img.shields.io/badge/Made%20in-Johor%2C%20Malaysia-2F81F7?style=flat-square)
+## Current Interests
 
-<br><br>
+- Modern web and application development
+- Workflow automation and AI-assisted development
+- Web application and server security
+- Linux infrastructure and system administration
+- User experience and interface design
 
-<sub>Thanks for visiting my GitHub profile.</sub>
+<br>
+
+## Connect
+
+**Website:** [ariff.my](https://ariff.my)  
+**GitHub:** [github.com/ariffmy](https://github.com/ariffmy)  
+**Location:** Johor, Malaysia
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>Design with purpose. Build with simplicity. Improve continuously.</sub>
 
 </div>
