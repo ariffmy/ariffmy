@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="ariff.my — IT Professional, Web Developer and System Builder" width="100%" />
+<p align="center">
+  <img src="./assets/header.svg"
+       alt="ariff.my — IT Professional, Web Developer & System Builder"
+       width="100%">
+</p>
 
 <br />
 
